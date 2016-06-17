@@ -1,0 +1,17 @@
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\StatefulAdaptor.exe.config
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\StatefulAdaptor.exe
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\StatefulAdaptor.pdb
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\System.Fabric.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\System.Fabric.xml
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\obj\x64\Debug\StatefulAdaptor.exe
+C:\hsbc\git\spikes\ServiceFabric\StatefulAdaptor\obj\x64\Debug\StatefulAdaptor.pdb
