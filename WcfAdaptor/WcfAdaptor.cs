@@ -40,12 +40,12 @@ namespace WcfService
                         // The name of the endpoint configured in the ServiceManifest under the Endpoints section
                         // that identifies the endpoint that the WCF ServiceHost should listen on.
                         //
-                        endpointResourceName: "WcfServiceEndpoint" /*,
+                        endpointResourceName: "WcfServiceEndpoint"/*,
 
-            //
-            // Populate the binding information that you want the service to use.
-            //
-            listenerBinding: WcfUtility.CreateTcpListenerBinding()*/
+                        //
+                        // Populate the binding information that you want the service to use.
+                        //
+                        listenerBinding: WcfUtility.CreateTcpListenerBinding()*/
                         )
                     )
             };

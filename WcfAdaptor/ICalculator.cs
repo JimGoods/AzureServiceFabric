@@ -7,14 +7,22 @@ namespace WcfService
     public interface ICalculator
     {
         [OperationContract]
-        Task<int> Add(int value1, int value2);
+        int Add(int value1, int value2);
+
+        [OperationContract]
+        Task<int> AddAsync(int value1, int value2);
     }
 
     public class Calculator : ICalculator
     {
-        public async Task<int> Add(int value1, int value2)
+        public int Add(int value1, int value2)
         {
-            return 1;
+            return value1 + value2;
+        }
+
+        public async Task<int> AddAsync(int value1, int value2)
+        {
+            return value1 + value2;
         }
     }
 }
